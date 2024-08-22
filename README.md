@@ -37,9 +37,8 @@
 ![200w](https://github.com/roselinamoven/roselinamoven/assets/41355680/c0b15ccb-4ed6-4bc6-8e38-0e12be0c7cd2)
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Website](https://img.shields.io/badge/Website-%23ff00ff.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/roselinamariamoven)
+
 
 
 
