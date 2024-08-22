@@ -37,7 +37,7 @@
 ![200w](https://github.com/roselinamoven/roselinamoven/assets/41355680/c0b15ccb-4ed6-4bc6-8e38-0e12be0c7cd2)
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]www.linkedin.com/in/roselinamariamoven
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(www.linkedin.com/in/roselinamariamoven)
 
 
 
