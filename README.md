@@ -19,7 +19,7 @@
 
 ### Tools I Love Using:
 
-- 📊 **Data Visualization:** Matplotlib, Seaborn, Plotly
+- 📊 **Data Analysis/Visualization:** Excel, PowerPoint, Python, SQl
 - 🚀 **Development:** Jupyter Notebooks, Visual Studio Code
 - ☁️ **Cloud Platforms:** Azure, AWS
 - 🧠 **Machine Learning:** scikit-learn, TensorFlow, Keras
