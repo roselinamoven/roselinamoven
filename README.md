@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
   <br>Hello World!!! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> This is Roselina,🚀 Aspiring Data Scientist | IT & Data Analytics Pro 🌟 <br>  
+  <br> This is Roselina,🚀 DATA ENTHUSIAST | IT & Data Analytics Pro 🌟 <br>  
  </abc>
 </h2> 
 
