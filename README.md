@@ -19,7 +19,7 @@
 
 ### Tools I Love Using:
 
-- 📊 **Data Analysis/Visualization:** Excel, PowerPoint, Python, SQl
+- 📊 **Data Analysis/Visualization:** Excel, PowerPoint, Python, SQl, Tableau
 - 🚀 **Development:** Jupyter Notebooks, Visual Studio Code
 - ☁️ **Cloud Platforms:** Azure, AWS
 - 🧠 **Machine Learning:** scikit-learn, TensorFlow, Keras
